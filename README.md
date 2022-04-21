@@ -15,10 +15,10 @@ Changed header h1 .seo into id #seo since it was only used once
 Merged the h2 classes for online-reputation-management, search-engine-optimization, and social-media-marketing CSS classes into a single class .container h2
 Made use of variables to increase efficiency
 
-  CONTRIBUTING: Anyine can contribute
+  CONTRIBUTING: Anyone can contribute
   
   CONTACT: Sadiq Umar - TWITTER: @sadiqumarajiya7 - EMAIL: Sadiqumarajiya123@gmail.com
-  PROJECT LINK:https://github.com/SadiqUmar02/Homework01.git
+   PROJECT LINK:https://github.com/SadiqUmar02/Homework01.git
                             
   
 
